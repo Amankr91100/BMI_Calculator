@@ -19,7 +19,8 @@ It takes a user's weight and height as input, calculates BMI, and displays a hea
 
 
 📸 Screenshot
-(Add a screenshot of your app here if available)
+<img width="1166" height="825" alt="Screenshot 2025-08-22 201201" src="https://github.com/user-attachments/assets/0c3686fa-f997-42c4-a598-f5a82695ca73" />
+
 
 📂 Project Structure
 src/
